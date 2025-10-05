@@ -1,0 +1,8 @@
+Pattern / Function	        What It's For	                                                  Example Syntax
+Direct Iteration	     Looping over items in a sequence (list, tuple, string).	         for item in my_list:
+range()	                 Looping a specific number of times.	                             for i in range(10):
+enumerate()	             Looping with both index and value.	for index,                       item in enumerate(my_list):
+.items()	             Looping over key-value pairs in a dictionary.	                     for key, value in my_dict.items():
+zip()	                 Looping over multiple sequences in parallel.	                     for a, b in zip(list_a, list_b):
+break/continue	         Controlling the flow and execution of the loop.	                 if condition: break or continue
+for...else	             Running code if the loop finishes without a break.	                 for...else:
