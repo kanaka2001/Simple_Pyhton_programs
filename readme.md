@@ -1,0 +1,1 @@
+these are all simple python codes for learning any one can use these codes and understand easily throught the comments 
